@@ -21,6 +21,3 @@ def test_send_mail(browser):
 
 
 
-# test.testov.85.85@mail.ru
-# PasswordQAZwsx
-# PasswordQAZwsx
